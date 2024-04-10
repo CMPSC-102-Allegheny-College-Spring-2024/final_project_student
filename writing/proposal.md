@@ -1,6 +1,6 @@
 # Project Proposal
 
-Please write in clear and meaningful languag -- no one-liners please.
+Please write in clear and meaningful language -- no one-liners please.
 Note: Please offer screen shots where possible to help the reader to understand.
 
 ## Names
