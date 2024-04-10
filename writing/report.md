@@ -54,10 +54,10 @@ TODO
 
 ## Applying a Method in Code
 
-Describe how your code showcases or explains the learning objectives of your work.
+Describe how your code showcases or explains the learning objectives of your work. Please offer screen shots to illustrate your ideas. Note: Please examine the graphic of the caption in the `README.md` file of this repository to learn how to add your own graphics in Markdown documents.
 
 ```
-TODO
+DONE
 ```
 
 ## Conclusions
