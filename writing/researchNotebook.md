@@ -10,7 +10,7 @@ Add Your Name Here
 
 ## Literature Review
 
-- Describe and list the articles used for this project.
+- Describe and list the academic articles used for this project.
 
 ```
 TODO
@@ -18,7 +18,7 @@ TODO
 
 ## Motivations
 
-- Describe the motivations of the project
+- Describe the motivations of the project. Why did you choose this research?
 
 ```
 TODO
@@ -34,7 +34,7 @@ TODO
 
 ## Tasks
 
-- What are the tasks of the project
+- What are the main tasks of the project?
 
 ```
 TODO
@@ -42,33 +42,27 @@ TODO
 
 ## Members 
 
-- Outline who is handling the tasks and how the task is being completed.
+- For the main tasks from above, outline who is handling the tasks. How is each person in your group addressing their tasks?
 
 ```
 TODO
 ```
 
-## Completed Prototype
+## Prototype
 
-- Describe what your prototype. 
-
-```
-TODO
-```
-
-- What does it look like?
+- Describe how you will prototype your idea to introduce your idea to the class? What will your programmed solution do? Please include any limitations or assumptions that had to be made during the development of your prototype.
 
 ```
 TODO
 ```
 
-- what does it do to showcase come mathematical curiosity?  
+- How will you explain the functionality behind the prototype meet the learning and research objectives of the research project? Will there be other necessary visual aids? 
 
 ```
 TODO
 ```
 
-- Are there any issues to overcome to produce this prototype?
+- Would you consider making this programmed solution available as an open-source project? Why or why not?
 
 ```
 TODO
