@@ -60,7 +60,7 @@ The below deliverables are outlined below. In each, you will be expected to comm
   - Due on **9:00 am on Monday, May 6th, 2024** (Firm deadline: No extensions are possible)
 
 - `writing/report.md`: Final report due. In this report, you are to provide an overview of your research question(s), steps, two or three peer-reviewed citations, code, screenshots, and other types of information to help explain your project. Assume that your reader is unfamiliar with your work as you introduce and explain your project.
-  - Due on **Monday, May 6th, 2024** (Firm deadline: No extensions are possible)
+  - Due on **9:00 am on Monday, May 6th, 2024** (Firm deadline: No extensions are possible)
 
 ## Research Task
 
